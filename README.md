@@ -47,8 +47,7 @@ Seluruh sequence diunduh dari NCBI Protein database (RefSeq) pada 23 Juli 2026.
 ## Cara Reproduksi
 
 1. Clone repositori ini
-2. Sequence mentah tersedia langsung di `data/raw_sequences/` — tidak
-   perlu didownload ulang
+2. Sequence mentah tersedia langsung di `data/raw_sequences/` 
 3. Ikuti panduan langkah demi langkah di
    [`docs/panduan_praktikum.md`](docs/panduan_praktikum.md)
 
