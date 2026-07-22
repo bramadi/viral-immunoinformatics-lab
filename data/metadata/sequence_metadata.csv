@@ -1,0 +1,6 @@
+filename,organism,protein,accession,length_aa,source_url,date_downloaded,notes
+hbv_small_envelope_HBsAg.fasta,Hepatitis B virus,Small envelope protein (HBsAg),YP_009173871.1,226,https://www.ncbi.nlm.nih.gov/protein/YP_009173871.1,2026-07-23,RefSeq reference sequence; digunakan sebagai referensi untuk analisis mutasi escape HBsAg
+hiv1_capsid_p24.fasta,Human immunodeficiency virus 1,Capsid (p24),NP_579880.1,231,https://www.ncbi.nlm.nih.gov/protein/NP_579880.1,2026-07-23,Bagian dari gen gag
+measles_hemagglutinin_H.fasta,Measles morbillivirus,Hemagglutinin,NP_056923.1,617,https://www.ncbi.nlm.nih.gov/protein/NP_056923.1,2026-07-23,
+rabies_glycoprotein_G.fasta,Lyssavirus rabies,Transmembrane glycoprotein G,NP_056796.1,524,https://www.ncbi.nlm.nih.gov/protein/NP_056796.1,2026-07-23,
+rsv_fusion_glycoprotein_F.fasta,Human respiratory syncytial virus,Fusion glycoprotein F,NP_056863.1,574,https://www.ncbi.nlm.nih.gov/protein/NP_056863.1,2026-07-23,
