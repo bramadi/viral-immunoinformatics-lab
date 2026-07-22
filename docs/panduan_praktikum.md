@@ -6,7 +6,7 @@
 ## 1. Pendahuluan
 
 Imunoinformatika adalah cabang bioinformatika yang mempelajari sistem imun
-menggunakan pendekatan komputasi — misalnya untuk memprediksi bagian protein
+menggunakan pendekatan komputasi, misalnya untuk memprediksi bagian protein
 (epitope) yang dapat dikenali oleh antibodi (B-cell epitope) atau oleh sel T
 (T-cell epitope). Pendekatan ini banyak digunakan dalam pengembangan vaksin,
 alat diagnostik, dan pemahaman mekanisme infeksi virus.
