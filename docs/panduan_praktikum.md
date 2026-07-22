@@ -52,7 +52,7 @@ lengkap tersedia di [`data/metadata/sequence_metadata.csv`](../data/metadata/seq
 ### Tahap 1. Persiapan dan Quality Control
 
 1. Buka file FASTA di `data/raw_sequences/`
-2. Periksa header sequence (baris yang diawali `>`) — pastikan organism dan
+2. Periksa header sequence (baris yang diawali `>`). Pastikan organism dan
    accession sesuai dengan tabel di atas
 3. Periksa apakah sequence mengandung karakter selain 20 asam amino standar
    (misalnya `X`, tanda ambiguitas)
