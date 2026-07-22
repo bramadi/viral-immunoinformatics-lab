@@ -49,7 +49,7 @@ lengkap tersedia di [`data/metadata/sequence_metadata.csv`](../data/metadata/seq
 
 ## 3. Alur Kerja Praktikum
 
-### Tahap 1 — Persiapan dan Quality Control
+### Tahap 1. Persiapan dan Quality Control
 
 1. Buka file FASTA di `data/raw_sequences/`
 2. Periksa header sequence (baris yang diawali `>`) — pastikan organism dan
@@ -57,7 +57,7 @@ lengkap tersedia di [`data/metadata/sequence_metadata.csv`](../data/metadata/seq
 3. Periksa apakah sequence mengandung karakter selain 20 asam amino standar
    (misalnya `X`, tanda ambiguitas)
 
-### Tahap 2 — Analisis Karakteristik Protein
+### Tahap 2. Analisis Karakteristik Protein
 
 Untuk setiap protein, catat:
 - Panjang sequence (asam amino)
@@ -66,7 +66,7 @@ Untuk setiap protein, catat:
 - Domain fungsional (jika diketahui — misal domain transmembran pada
   glikoprotein G rabies)
 
-### Tahap 3 — Prediksi Epitope
+### Tahap 3. Prediksi Epitope
 
 Beberapa tools daring yang dapat digunakan (tanpa instalasi lokal):
 
@@ -84,7 +84,7 @@ Beberapa tools daring yang dapat digunakan (tanpa instalasi lokal):
 4. Simpan hasil prediksi ke folder `results/` dengan format nama:
    `{virus}_{tool}_prediction.csv` atau `.txt`
 
-### Tahap 4 — Interpretasi dan Diskusi
+### Tahap 4. Interpretasi dan Diskusi
 
 Untuk setiap virus, diskusikan:
 - Apakah epitope yang diprediksi berada di region yang secara biologis
